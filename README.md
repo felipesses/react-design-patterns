@@ -15,3 +15,5 @@ Este repositório contém um curso sobre o uso de Design Patterns no React, que 
 - Functional Programming: um paradigma de programação que enfatiza funções puras e imutabilidade de dados. É importante para escrever código limpo e escalável em React.
 
 Este curso é útil para quem quer aprender mais sobre os padrões de design em React e como aplicá-los em projetos reais.
+
+<a href="https://www.linkedin.com/learning/react-design-patterns">Link do curso</a>
