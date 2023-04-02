@@ -1,6 +1,6 @@
 # Design Patterns no React
 
-Este repositório contém um curso sobre o uso de Design Patterns no React, que abrange vários conceitos importantes para o desenvolvimento de aplicações web. Abaixo está uma breve descrição dos tópicos abordados no curso:
+Este repositório contém conteúdos do curso sobre o uso de Design Patterns no React, disponível no Linkedin, que abrange vários conceitos importantes para o desenvolvimento de aplicações web. Abaixo está uma breve descrição dos tópicos abordados no curso:
 
 - Layout Components: componentes React que são responsáveis pela apresentação visual do aplicativo, geralmente com a ajuda de CSS. Eles são úteis para manter o código organizado e reutilizável.
 
